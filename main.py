@@ -80,4 +80,4 @@ async def on_message(message):
             picture = discord.File(f)
             await message.channel.send('Нам похуй', file=picture)
 
-client.run('MTAzMDgxNzUyMDA4MjQ5MzUxMQ.GW4g69.JZnHOfvQyML4esAawuFFVTw3WfgQ09JHpNWqR8')
+client.run('token')
